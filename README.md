@@ -1,3 +1,3 @@
 # EmailUserProject
 
-Solo project
+Solo Project
