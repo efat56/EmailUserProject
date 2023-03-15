@@ -1,3 +1,3 @@
 # EmailUserProject
 
-Solo Project
+Solo Project Using Spring Boot
